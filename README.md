@@ -1,4 +1,6 @@
 # Run Basic ESX Scripts into QBCore
+## Uses
+- Make sure to start this script before any esx script in server.cfg
 
 ## Supports
 - skinchanger
